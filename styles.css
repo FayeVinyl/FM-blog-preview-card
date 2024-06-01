@@ -1,0 +1,18 @@
+/*<uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 300 to 900*/
+
+.figtree {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
