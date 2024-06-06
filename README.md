@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/FayeVinyl/FM-blog-preview-card/tree/main)
-- Live Site URL: [Add live site URL here](https://fayevinyl.github.io/FM-blog-preview-card/)
+- Solution URL: [solution](https://github.com/FayeVinyl/FM-blog-preview-card)
+- Live Site URL: [live site](https://fayevinyl.github.io/FM-blog-preview-card/)
 
 ## My process
 
