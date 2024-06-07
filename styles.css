@@ -37,6 +37,10 @@ body {
   position: relative;
 }
 
+.card:hover {
+  box-shadow: 16px 16px;
+}
+
 .card-img {
   border-radius: 10px;
 }
